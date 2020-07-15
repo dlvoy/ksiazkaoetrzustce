@@ -6,7 +6,7 @@
 * [Foreword by Aaron Kowalski](foreword-by-aaron-kowalski.md)
 * [Introduction](introduction.md)
 * [How To Get The Most Out Of This Book](how-to-get-the-most-out-of-this-book.md)
-* [1. Czym jest zamknięta pętla lub sztuczna trzustka i czemu ktoś chciałby jej używać?](czym-jest-zamknieta-petla-lub-sztuczna-trzustka-i-czemu-ktos-chcialby-jej-uzywac.md)
+* [1. Czym jest zamknięta pętla lub sztuczna trzustka i czemu ktoś chciałby jej używać?](1.-czym-jest-zamknieta-petla-lub-sztuczna-trzustka-i-czemu-ktos-chcialby-jej-uzywac.md)
 * [2. Choosing An Artificial Pancreas System](2.-choosing-an-artificial-pancreas-system.md)
 * [3. Getting Started With Your APS](3.-getting-started-with-your-aps.md)
 * [4. Troubleshooting Your APS](4.-troubleshooting-your-aps.md)
