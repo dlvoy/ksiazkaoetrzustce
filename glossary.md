@@ -41,6 +41,6 @@ Note that most commercially available pumps calculate IOB based on bolus activit
 **Time in Range \(TIR\)** – a newer, standardized way of reporting CGM data, in addition to the A1c metric. Typical TIR for research studies is a range from 80-180 mg/dL, although different studies and different individuals may report or strive for different ranges.
 
 {% hint style="info" %}
-Looking for a word you don't see here? Make sure to also check out the [T1D/Diabetes Tech Dictionary](https://www.winchcombe.org/t1resources/dictionary.aspx). 
+Looking for a word you don't see here? Make sure to also check out the [T1D/Diabetes Tech Dictionary](https://www.winchcombe.org/t1resources/dictionary.aspx).
 {% endhint %}
 

@@ -2,14 +2,14 @@
 
 Here are some of the resources discussed throughout the book, and other helpful references:
 
-#### Documentation for a few different DIY diabetes projects:
+### Documentation for a few different DIY diabetes projects:
 
 * Nightscout: [http://www.nightscout.info/wiki/welcome/set-up-nightscout-using-heroku](http://www.nightscout.info/wiki/welcome/set-up-nightscout-using-heroku)
 * OpenAPS: [http://openaps.readthedocs.org/en/latest/](http://openaps.readthedocs.org/en/latest/)
 * AndroidAPS: [https://androidaps.readthedocs.io/en/latest/](https://androidaps.readthedocs.io/en/latest/)
 * Loop: [https://loopkit.github.io/loopdocs/](https://loopkit.github.io/loopdocs/)
 
-#### Related Facebook Groups:
+### Related Facebook Groups:
 
 * “Looped” \(supports all types of DIY closed loop systems\): [https://www.facebook.com/groups/TheLoopedGroup/](https://www.facebook.com/groups/TheLoopedGroup/)
 * “CGM In The Cloud” \(supports Nightscout-related questions\): [https://www.facebook.com/groups/cgminthecloud/](https://www.facebook.com/groups/cgminthecloud/)
@@ -29,13 +29,9 @@ Here are some of the resources discussed throughout the book, and other helpful 
 
 ## Videos about APS
 
-{% embed url="https://www.youtube.com/watch?v=kgu-AYSnyZ8&t=" %}
+{% embed url="https://www.youtube.com/watch?v=kgu-AYSnyZ8&t=" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=LMIhoddYr5w" %}
+{% embed url="https://www.youtube.com/watch?v=LMIhoddYr5w" caption="" %}
 
-{% embed url="https://www.youtube.com/watch?v=p76hGxv3-HE" %}
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=p76hGxv3-HE" caption="" %}
 
