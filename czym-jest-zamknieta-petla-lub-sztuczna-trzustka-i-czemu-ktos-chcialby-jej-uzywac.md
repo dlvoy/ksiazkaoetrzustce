@@ -21,15 +21,17 @@ However, would you believe that stage 5, or ‘fully automated’ closed looping
 
 ## Gdybyś mógł wybrać choć jedną rzecz, co chciałbyś móc odpuścić?
 
-Spośród rzeczy które musisz robić dzisiaj \(w związku z codziennym leczeniem cukrzycy, a w szczególności dozowaniem insuliny\) co chciałbyś móc odpuścić, i nie musieć robić - gdy to było tylko możliwe? Liczenia węglowodanów? Podawania bolusów? Lub w przypadku wyników – what if you could give up going low after a meal? Or reduce the amount that you spike?
+Spośród rzeczy, które musisz robić dzisiaj \(w związku z codziennym leczeniem cukrzycy, a w szczególności dozowaniem insuliny\) co chciałbyś móc odpuścić, i nie musieć robić - gdy to było tylko możliwe? Liczenia węglowodanów? Podawania bolusów? Lub w przypadku wyników – co gdybyś mógł zapobiec spadkom glikemii po posiłku? Lub zredukować piki w górę?
 
-**How many of these 5 things do you think are possible to achieve together?**
+**Jak myślisz, ile z poniższych pięciu rzeczy można osiągnąć jednocześnie?**
 
-* No need to bolus 
-* No need to count carbs Medium/high carb meals 
-* 80%+ time in range  no hypoglycemia
+* Brak konieczności podawania bolusa
+* Brak konieczności liczenia węglowodanów 
+* Posiłki ze średnią lub wysoką ilością węglowodanów
+* Glikemia 80%+ czasu w zakresie
+* Brak hipoglikemii
 
-How many can you manage with your current therapy and tools of choice? How many do you think will be possible with hybrid closed loop systems?
+Ile z nich możesz osiągnąć jednocześnie dzięki twojej bieżącej terapii i wybieranym  dotychczas narzędziom? Jak myślisz - ile z nich można osiągnąć dzięki systemowi hybrydowej zamkniętej pętli?
 
 With just pump and CGM, it’s possible to get good time in range with well-timed meal boluses, counting carbs, and eating relatively low-carb \(or getting lucky/spending a lot of time learning how to time your insulin with regular meals\). Even with all that, some people still go low and have hypoglycemia. So, let’s call that a 2 \(out of 5\) that can be achieved simultaneously.
 
